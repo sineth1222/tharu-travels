@@ -183,7 +183,7 @@ const Footer = ()=>{
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
                                     className: "text-base md:text-lg font-bold mb-4",
-                                    children: "Sineth Travels"
+                                    children: "Tharu Travels"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Footer.tsx",
                                     lineNumber: 12,
@@ -458,39 +458,35 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$mo
 ;
 const about = {
     title: "About me",
-    description: "Hi, Im Sineth, the founder and guide of sineth travells. As a proud Sri Lankan, I have a deep passion for showcasing the beauty, culture, and hidden gems of my country to travelers from around the world. ",
+    description: "Hi, Im Tharindu, the founder and guide of tharu travells. As a proud Sri Lankan, I have a deep passion for showcasing the beauty, culture, and hidden gems of my country to travelers from around the world. ",
     info: [
         {
             fieldName: "Name",
-            fieldValue: "G.B.Sineth Mashenka"
+            fieldValue: "Tharindu"
         },
         {
             fieldName: "Phone",
-            fieldValue: "(+94) 705089955"
+            fieldValue: "(+94) 779149530"
         },
         {
             fieldName: "Experience",
-            fieldValue: "1+ Years"
+            fieldValue: "10+ Years"
         },
         {
             fieldName: "Email",
-            fieldValue: "sineth mashenka1222@gmail.com"
+            fieldValue: "tharutravels@gmail.com"
         },
         {
             fieldName: "Nationality",
             fieldValue: "Srilankan"
         },
         {
-            fieldName: "Linkedin",
-            fieldValue: "Sineth Mashenka"
-        },
-        {
-            fieldName: "Freelance",
-            fieldValue: "Available"
+            fieldName: "Instagram",
+            fieldValue: "Tharu Tours Sri Lanka"
         },
         {
             fieldName: "Languages",
-            fieldValue: "English, Sinhala"
+            fieldValue: "English, Sinhala, Russian, Spanish"
         }
     ]
 };
@@ -576,38 +572,38 @@ const about = {
         {
             icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaFacebook"], {}, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 140,
+                lineNumber: 136,
                 columnNumber: 13
             }, this),
             name: "Facebook",
-            path: "https://www.linkedin.com/in/sineth-mashenka-113122241/"
+            path: "https://web.facebook.com/profile.php?id=61574528433221"
         },
         {
             icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaInstagram"], {}, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 145,
+                lineNumber: 141,
                 columnNumber: 13
             }, this),
             name: "Instagram",
-            path: "https://www.linkedin.com/in/sineth-mashenka-113122241/"
+            path: "https://www.instagram.com/tharu_tours_srilanka/"
         },
         {
             icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaLinkedin"], {}, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 150,
+                lineNumber: 146,
                 columnNumber: 13
             }, this),
             name: "Linkedin",
-            path: "https://www.linkedin.com/in/sineth-mashenka-113122241/"
+            path: "https://www.linkedin.com/in/tharu-tours-sri-lanka-980176358/"
         },
         {
             icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaWhatsapp"], {}, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 155,
+                lineNumber: 151,
                 columnNumber: 13
             }, this),
             name: "Whatsapp",
-            path: "https://www.linkedin.com/in/sineth-mashenka-113122241/"
+            path: "/contact"
         }
     ]
 };
@@ -624,7 +620,7 @@ const Resume = ()=>{
                         className: "absolute bottom-0 w-full h-32 bg-gradient-to-b from-transparent to-primary"
                     }, void 0, false, {
                         fileName: "[project]/app/resume/page.tsx",
-                        lineNumber: 175,
+                        lineNumber: 171,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -635,7 +631,7 @@ const Resume = ()=>{
                                 children: "Crafting Your Travel Tale"
                             }, void 0, false, {
                                 fileName: "[project]/app/resume/page.tsx",
-                                lineNumber: 179,
+                                lineNumber: 175,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -643,7 +639,7 @@ const Resume = ()=>{
                                 children: "Embark on Tailored Adventures."
                             }, void 0, false, {
                                 fileName: "[project]/app/resume/page.tsx",
-                                lineNumber: 182,
+                                lineNumber: 178,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -653,24 +649,24 @@ const Resume = ()=>{
                                     iconStyles: "w-9 h-9 border border-white rounded-full flex justify-center items-center text-white text-base hover:bg-primary hover:text-accent hover:trasition-all duration-500"
                                 }, void 0, false, {
                                     fileName: "[project]/app/resume/page.tsx",
-                                    lineNumber: 188,
+                                    lineNumber: 184,
                                     columnNumber: 17
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/app/resume/page.tsx",
-                                lineNumber: 187,
+                                lineNumber: 183,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/resume/page.tsx",
-                        lineNumber: 178,
+                        lineNumber: 174,
                         columnNumber: 13
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 173,
+                lineNumber: 169,
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -705,7 +701,7 @@ const Resume = ()=>{
                                             children: "Contact Me"
                                         }, void 0, false, {
                                             fileName: "[project]/app/resume/page.tsx",
-                                            lineNumber: 216,
+                                            lineNumber: 212,
                                             columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$tabs$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["TabsTrigger"], {
@@ -713,13 +709,13 @@ const Resume = ()=>{
                                             children: "About Me"
                                         }, void 0, false, {
                                             fileName: "[project]/app/resume/page.tsx",
-                                            lineNumber: 217,
+                                            lineNumber: 213,
                                             columnNumber: 19
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/resume/page.tsx",
-                                    lineNumber: 213,
+                                    lineNumber: 209,
                                     columnNumber: 17
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -739,7 +735,7 @@ const Resume = ()=>{
                                                                 children: skills.title
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/resume/page.tsx",
-                                                                lineNumber: 273,
+                                                                lineNumber: 269,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -747,13 +743,13 @@ const Resume = ()=>{
                                                                 children: skills.description
                                                             }, void 0, false, {
                                                                 fileName: "[project]/app/resume/page.tsx",
-                                                                lineNumber: 274,
+                                                                lineNumber: 270,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/resume/page.tsx",
-                                                        lineNumber: 272,
+                                                        lineNumber: 268,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$scroll$2d$area$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ScrollArea"], {
@@ -775,7 +771,7 @@ const Resume = ()=>{
                                                                                             children: skill.name
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/app/resume/page.tsx",
-                                                                                            lineNumber: 283,
+                                                                                            lineNumber: 279,
                                                                                             columnNumber: 29
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -783,13 +779,13 @@ const Resume = ()=>{
                                                                                             children: skill.icon
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/app/resume/page.tsx",
-                                                                                            lineNumber: 284,
+                                                                                            lineNumber: 280,
                                                                                             columnNumber: 31
                                                                                         }, this)
                                                                                     ]
                                                                                 }, void 0, true, {
                                                                                     fileName: "[project]/app/resume/page.tsx",
-                                                                                    lineNumber: 282,
+                                                                                    lineNumber: 278,
                                                                                     columnNumber: 29
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$tooltip$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["TooltipContent"], {
@@ -798,50 +794,50 @@ const Resume = ()=>{
                                                                                         children: skill.name
                                                                                     }, void 0, false, {
                                                                                         fileName: "[project]/app/resume/page.tsx",
-                                                                                        lineNumber: 287,
+                                                                                        lineNumber: 283,
                                                                                         columnNumber: 31
                                                                                     }, this)
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/app/resume/page.tsx",
-                                                                                    lineNumber: 286,
+                                                                                    lineNumber: 282,
                                                                                     columnNumber: 29
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/app/resume/page.tsx",
-                                                                            lineNumber: 281,
+                                                                            lineNumber: 277,
                                                                             columnNumber: 27
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/resume/page.tsx",
-                                                                        lineNumber: 280,
+                                                                        lineNumber: 276,
                                                                         columnNumber: 25
                                                                     }, this)
                                                                 }, index, false, {
                                                                     fileName: "[project]/app/resume/page.tsx",
-                                                                    lineNumber: 279,
+                                                                    lineNumber: 275,
                                                                     columnNumber: 30
                                                                 }, this);
                                                             })
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/resume/page.tsx",
-                                                            lineNumber: 277,
+                                                            lineNumber: 273,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/resume/page.tsx",
-                                                        lineNumber: 276,
+                                                        lineNumber: 272,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/resume/page.tsx",
-                                                lineNumber: 271,
+                                                lineNumber: 267,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/resume/page.tsx",
-                                            lineNumber: 270,
+                                            lineNumber: 266,
                                             columnNumber: 13
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$tabs$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["TabsContent"], {
@@ -855,7 +851,7 @@ const Resume = ()=>{
                                                         children: about.title
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/resume/page.tsx",
-                                                        lineNumber: 301,
+                                                        lineNumber: 297,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -863,7 +859,7 @@ const Resume = ()=>{
                                                         children: about.description
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/resume/page.tsx",
-                                                        lineNumber: 302,
+                                                        lineNumber: 298,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -877,7 +873,7 @@ const Resume = ()=>{
                                                                         children: item.fieldName
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/resume/page.tsx",
-                                                                        lineNumber: 308,
+                                                                        lineNumber: 304,
                                                                         columnNumber: 31
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -885,62 +881,62 @@ const Resume = ()=>{
                                                                         children: item.fieldValue
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/app/resume/page.tsx",
-                                                                        lineNumber: 309,
+                                                                        lineNumber: 305,
                                                                         columnNumber: 31
                                                                     }, this)
                                                                 ]
                                                             }, index, true, {
                                                                 fileName: "[project]/app/resume/page.tsx",
-                                                                lineNumber: 306,
+                                                                lineNumber: 302,
                                                                 columnNumber: 29
                                                             }, this);
                                                         })
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/resume/page.tsx",
-                                                        lineNumber: 303,
+                                                        lineNumber: 299,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/resume/page.tsx",
-                                                lineNumber: 300,
+                                                lineNumber: 296,
                                                 columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/resume/page.tsx",
-                                            lineNumber: 299,
+                                            lineNumber: 295,
                                             columnNumber: 13
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/resume/page.tsx",
-                                    lineNumber: 221,
+                                    lineNumber: 217,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/resume/page.tsx",
-                            lineNumber: 212,
+                            lineNumber: 208,
                             columnNumber: 15
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/app/resume/page.tsx",
-                        lineNumber: 211,
+                        lineNumber: 207,
                         columnNumber: 13
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/resume/page.tsx",
-                    lineNumber: 205,
+                    lineNumber: 201,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 202,
+                lineNumber: 198,
                 columnNumber: 11
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Footer$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/app/resume/page.tsx",
-                lineNumber: 327,
+                lineNumber: 323,
                 columnNumber: 9
             }, this)
         ]

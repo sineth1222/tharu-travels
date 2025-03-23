@@ -56,7 +56,7 @@ const Home = () => {
         fieldValue: "Srilankan",
       },
       {
-        fieldName: "Linkedin",
+        fieldName: "Instagram",
         fieldValue: "Tharu Tours Sri Lanka",
       },
       {

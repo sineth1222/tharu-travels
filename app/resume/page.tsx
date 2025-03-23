@@ -15,39 +15,35 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 
 const about = {
   title: "About me",
-  description: "Hi, Im Sineth, the founder and guide of sineth travells. As a proud Sri Lankan, I have a deep passion for showcasing the beauty, culture, and hidden gems of my country to travelers from around the world. ",
+  description: "Hi, Im Tharindu, the founder and guide of tharu travells. As a proud Sri Lankan, I have a deep passion for showcasing the beauty, culture, and hidden gems of my country to travelers from around the world. ",
   info: [
     {
       fieldName: "Name",
-      fieldValue: "G.B.Sineth Mashenka",
+      fieldValue: "Tharindu",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+94) 705089955",
+      fieldValue: "(+94) 779149530",
     },
     {
       fieldName: "Experience",
-      fieldValue: "1+ Years",
+      fieldValue: "10+ Years",
     },
     {
       fieldName: "Email",
-      fieldValue: "sineth mashenka1222@gmail.com",
+      fieldValue: "tharutravels@gmail.com",
     },
     {
       fieldName: "Nationality",
       fieldValue: "Srilankan",
     },
     {
-      fieldName: "Linkedin",
-      fieldValue: "Sineth Mashenka",
-    },
-    {
-      fieldName: "Freelance",
-      fieldValue: "Available",
+      fieldName: "Instagram",
+      fieldValue: "Tharu Tours Sri Lanka",
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Sinhala",
+      fieldValue: "English, Sinhala, Russian, Spanish",
     },
   ]
 };
@@ -139,22 +135,22 @@ const skills = {
     {
       icon: <FaFacebook />,
       name: "Facebook",
-      path: "https://www.linkedin.com/in/sineth-mashenka-113122241/",
+      path: "https://web.facebook.com/profile.php?id=61574528433221",
     },
     {
       icon: <FaInstagram />,
       name: "Instagram",
-      path: "https://www.linkedin.com/in/sineth-mashenka-113122241/",
+      path: "https://www.instagram.com/tharu_tours_srilanka/",
     },
     {
       icon: <FaLinkedin />,
       name: "Linkedin",
-      path: "https://www.linkedin.com/in/sineth-mashenka-113122241/",
+      path: "https://www.linkedin.com/in/tharu-tours-sri-lanka-980176358/",
     },
     {
       icon: <FaWhatsapp />,
       name: "Whatsapp",
-      path: "https://www.linkedin.com/in/sineth-mashenka-113122241/",
+      path: "/contact",
     },
   ]
 
