@@ -110,23 +110,23 @@ const Home = () => {
     description: "Welcome to Tharu Tours, your trusted travel partner in Sri Lanka! As an experienced tour guide, I specialize in providing personalized travel experiences that showcase the beauty, history, and adventure of this paradise island. Whether you're looking for breathtaking landscapes, rich cultural heritage, or exciting adventures, our tour packages have something for everyone.",
     items: [
       {
-        company: "$100 - Per one person",
+        company: "$100 Per one person",
         position: "Nine arch bright, Ella Rock ...",
         duration: "Ella Tour Package",
       },
       {
-        company: "$50 - Per one person",
-        position: "Galle Fort, Hikkaduwa Beach ...",
+        company: "$50 Per one person",
+        position: "Galle Fort, Hikkaduwa Bea ...",
         duration: "Galle Tour Package",
       },
       {
-        company: "$120 - Per one person",
-        position: "Sigiriya Rock, Pidurangala Rock ...",
+        company: "$120 Per one person",
+        position: "Sigiriya Rock, Piduranga ...",
         duration: "Sigiriya & Dabulla Tour Package",
       },
       {
-        company: "$130 - Per one person",
-        position: "Ella, Train travels, Tea Plantations ...",
+        company: "$130 Per one person",
+        position: "Ella, Train travels, Tea Pl ...",
         duration: "Ella Safari Tour Package",
       },
       /*{
