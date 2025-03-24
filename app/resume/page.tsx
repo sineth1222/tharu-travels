@@ -49,22 +49,32 @@ const about = {
 };
 
 
-/*const experience ={
+const experience ={
   icon: "/assets/resume/badge.svg",
-  title: "My experience",
-  description: "Showcases my professional journey, including internships, freelance projects, and full-time roles. It highlights my responsibilities, achievements, and contributions in various roles, demonstrating my expertise and growth in the industry.",
+  title: "Tharu Tours – Explore the Ceylon with us!",
+  description: "Welcome to Tharu Tours, your trusted travel partner in Sri Lanka! As an experienced tour guide, I specialize in providing personalized travel experiences that showcase the beauty, history, and adventure of this paradise island. Whether you're looking for breathtaking landscapes, rich cultural heritage, or exciting adventures, our tour packages have something for everyone.",
   items: [
     {
-      company: "Gravity Plus Pvt Ltd.",
-      position: "Back-End Developer Intern",
-      duration: "2025 - Present",
+      company: "$100 - Per one person",
+      position: "Nine arch bright, Ella Rock ...",
+      duration: "Ella Tour Package",
     },
     {
-      company: "Silicon Radon Network Pvt Ltd.",
-      position: "Front-End Developer Intern",
-      duration: "summer 2024",
+      company: "$50 - Per one person",
+      position: "Galle Fort, Hikkaduwa Beach ...",
+      duration: "Galle Tour Package",
     },
     {
+      company: "$120 - Per one person",
+      position: "Sigiriya Rock, Pidurangala Rock ...",
+      duration: "Sigiriya & Dabulla Tour Package",
+    },
+    {
+      company: "$130 - Per one person",
+      position: "Ella, Train travels, Tea Plantations ...",
+      duration: "Ella Safari Tour Package",
+    },
+    /*{
       company: "PraDha Solution Startup",
       position: "Freelance Web Developer",
       duration: "2023 - 2024",
@@ -72,20 +82,10 @@ const about = {
     {
       company: "PraDha Solution Startup",
       position: "Jounior Web Developer",
-      duration: "2022 - 2023",
-    },
-    {
-      company: "PraDha Solution Startup",
-      position: "Freelance Web Developer",
       duration: "2023 - 2024",
-    },
-    {
-      company: "PraDha Solution Startup",
-      position: "Jounior Web Developer",
-      duration: "2023 - 2024",
-    },
+    },*/
   ]
-};*/
+};
 
 /*const education ={
   icon: "/assets/resume/cap.svg",
@@ -211,12 +211,13 @@ const Resume = () => {
                   <TabsTrigger value="education">Education</TabsTrigger>*/}
                   <TabsTrigger value="skills">Contact Me</TabsTrigger>
                   <TabsTrigger value="about">About Me</TabsTrigger>
+                  <TabsTrigger value="experience">Packages</TabsTrigger>
                 </TabsList>
 
           {/* content */}
           <div className="min-h-[70vh] w-full">
             {/* experience */}
-            {/*<TabsContent value="experience" className="w-full">
+            <TabsContent value="experience" className="w-full">
               <div className="flex flex-col gap-[30px] text-center xl:text-left">
                 <h3 className="text-4xl font-bold">{experience.title}</h3>
                 <p className="max-w-[600px] text-white/60 mx-auto xl:mx-0">{experience.description}</p>
@@ -227,7 +228,7 @@ const Resume = () => {
                         <span className="text-accent">{item.duration}</span>
                         <h3 className="text-xl max-w-[260px] min-h-[60px] text-center lg:text-left">{item.position}</h3>
                         <div className="flex items-center gap-3">
-                          {/* dot /}
+                          {/* dot */}
                           <span className="w-[6px] h-[6px] rounded-full bg-accent"></span>
                           <p className="text-white/60">{item.company}</p>
                         </div>
@@ -236,7 +237,7 @@ const Resume = () => {
                   </ul>
                 </ScrollArea>
               </div>
-            </TabsContent>*/}
+            </TabsContent>
 
             {/* education */}
             {/*<TabsContent value="education" className="w-full">

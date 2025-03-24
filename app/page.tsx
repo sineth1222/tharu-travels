@@ -104,9 +104,49 @@ const Home = () => {
   
   };
 
+  const experience ={
+    icon: "/assets/resume/badge.svg",
+    title: "Tharu Tours – Explore the Ceylon with us!",
+    description: "Welcome to Tharu Tours, your trusted travel partner in Sri Lanka! As an experienced tour guide, I specialize in providing personalized travel experiences that showcase the beauty, history, and adventure of this paradise island. Whether you're looking for breathtaking landscapes, rich cultural heritage, or exciting adventures, our tour packages have something for everyone.",
+    items: [
+      {
+        company: "$100 - Per one person",
+        position: "Nine arch bright, Ella Rock ...",
+        duration: "Ella Tour Package",
+      },
+      {
+        company: "$50 - Per one person",
+        position: "Galle Fort, Hikkaduwa Beach ...",
+        duration: "Galle Tour Package",
+      },
+      {
+        company: "$120 - Per one person",
+        position: "Sigiriya Rock, Pidurangala Rock ...",
+        duration: "Sigiriya & Dabulla Tour Package",
+      },
+      {
+        company: "$130 - Per one person",
+        position: "Ella, Train travels, Tea Plantations ...",
+        duration: "Ella Safari Tour Package",
+      },
+      /*{
+        company: "PraDha Solution Startup",
+        position: "Freelance Web Developer",
+        duration: "2023 - 2024",
+      },
+      {
+        company: "PraDha Solution Startup",
+        position: "Jounior Web Developer",
+        duration: "2023 - 2024",
+      },*/
+    ]
+  };
+
   return (
                 <><section className="bg-cover bg-center min-h-screen relative"
-        style={{ backgroundImage: `url(https://images.unsplash.com/photo-1506744038136-46273834b3fb)` }}>
+                style={{ backgroundImage: `url(https://images.pexels.com/photos/319976/pexels-photo-319976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)` }}>
+                  {/* style={{ backgroundImage: `url('/assets/hero.png')` }}> */}
+        {/*style={{ backgroundImage: `url(https://images.unsplash.com/photo-1506744038136-46273834b3fb)` }}>*/}
         {/*<div className="absolute inset-0 bg-black bg-opacity-50"></div>*/}
         <div className="container mx-auto pt-72 px-4 h-full flex flex-col justify-center items-center text-black">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-center">
@@ -209,7 +249,8 @@ const Home = () => {
                     className="w-full h-64 object-cover rounded-lg shadow-md"
                   />
                   <Image
-                    src="https://destinationlesstravel.com/wp-content/uploads/2019/05/DSC_9675-2-1024x684.jpg.webp"
+                    /*src="https://destinationlesstravel.com/wp-content/uploads/2019/05/DSC_9675-2-1024x684.jpg.webp"*/
+                    src="/assets/ellapost.jpg"
                     alt="ella"
                     width={800}
                     height={500}
@@ -274,6 +315,7 @@ const Home = () => {
                   <TabsTrigger value="education">Education</TabsTrigger>*/}
                   <TabsTrigger value="skills">Contact Me</TabsTrigger>
                   <TabsTrigger value="about">About Me</TabsTrigger>
+                  <TabsTrigger value="experience">Packages</TabsTrigger>
                 </TabsList>
 
           {/* content */}
@@ -327,6 +369,29 @@ const Home = () => {
                       </ul>
                     </div>
             </TabsContent>
+
+            {/* experience */}
+                        <TabsContent value="experience" className="w-full">
+                          <div className="flex flex-col gap-[30px] text-center xl:text-left">
+                            <h3 className="text-4xl font-bold">{experience.title}</h3>
+                            <p className="max-w-[600px] text-white/60 mx-auto xl:mx-0">{experience.description}</p>
+                            <ScrollArea className="h-[400px]">
+                              <ul className="grid grid-cols-1 lg:grid-cols-2 gap-[30px]">
+                                {experience.items.map((item, index) => {
+                                  return <li key={index} className="bg-[#232329] h-[184px] py-6 px-10 rounded-xl flex flex-col justify-center items-center lg:items-start gap-1">
+                                    <span className="text-accent">{item.duration}</span>
+                                    <h3 className="text-xl max-w-[260px] min-h-[60px] text-center lg:text-left">{item.position}</h3>
+                                    <div className="flex items-center gap-3">
+                                      {/* dot */}
+                                      <span className="w-[6px] h-[6px] rounded-full bg-accent"></span>
+                                      <p className="text-white/60">{item.company}</p>
+                                    </div>
+                                  </li>
+                                })}
+                              </ul>
+                            </ScrollArea>
+                          </div>
+                        </TabsContent>
           </div>
         </Tabs>
       </div>
