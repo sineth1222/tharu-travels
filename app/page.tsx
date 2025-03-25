@@ -202,7 +202,7 @@ const Home = () => {
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 md:mb-8">FEATURED DESTINATIONS</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {rooms.map((room) => (
-            <div key={room.name} className="bg-white shadow-lg rounded-lg overflow-hidden">
+            <div key={room.name} className="bg-gray-100 shadow-lg rounded-lg overflow-hidden">
               <Image src={room.img} alt={room.name} width={400} height={300} className="w-full h-48 object-cover" />
               {/*<img src={room.img} alt={room.name} className="w-full h-48 object-cover" />*/}
               <div className="p-6">
@@ -337,7 +337,7 @@ const Home = () => {
                           <Tooltip>
                             <TooltipTrigger className="w-full h-[184px] bg-[#232329] rounded-xl flex flex-col justify-center items-center group">
                             <span className="text-accent py-4">{skill.name}</span>
-                              <div className="text-6xl group-hover:text-accent transition-all duration-300 pb-6">{skill.icon}</div>
+                              <div className="text-gray-200 text-6xl group-hover:text-accent transition-all duration-300 pb-6">{skill.icon}</div>
                             </TooltipTrigger>
                             <TooltipContent>
                               <p className="capitalize">{skill.name}</p>

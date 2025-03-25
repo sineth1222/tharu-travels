@@ -1044,12 +1044,61 @@ body {
   background-color: #ffffff0d;
 }
 
+.bg-\[\#F1ECDB\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(241 236 219 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#292F17\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(41 47 23 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#DCE0E8\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 224 232 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#343434\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(52 52 52 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#484848\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(72 72 72 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#F1F1F1\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(241 241 241 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#B0B0B0\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(176 176 176 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#F7F2FF\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 242 255 / var(--tw-bg-opacity, 1));
+}
+
+.bg-gray-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
+}
+
 .bg-opacity-50 {
   --tw-bg-opacity: .5;
 }
 
 .bg-gradient-to-b {
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+
+.bg-none {
+  background-image: none;
 }
 
 .from-transparent {
@@ -1375,6 +1424,21 @@ body {
 
 .text-white\/60 {
   color: #fff9;
+}
+
+.text-gray-100 {
+  --tw-text-opacity: 1;
+  color: rgb(243 244 246 / var(--tw-text-opacity, 1));
+}
+
+.text-gray-400 {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity, 1));
+}
+
+.text-gray-200 {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity, 1));
 }
 
 .underline {
