@@ -1,10 +1,11 @@
-# Sineth_Mashenka-Protfolio
+# Tharu Travells
 
 Hello I'm Sineth Mashenka. I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.
 
-## Vercel Link - https://sinethmashenka-protfolio--beta.vercel.app/
+## Vercel Link - https://tharu-travels.vercel.app/
 
-![Screenshot (476)](https://github.com/user-attachments/assets/cc15b30e-e735-499b-a6be-5efdb34810f9)
+![Screenshot (531)](https://github.com/user-attachments/assets/44d70004-9795-405c-8e4b-9b54d1f27346)
+
 
 
 ## Getting Started
